@@ -1,12 +1,11 @@
 Name:           imgui
-Version:        1.81
-Release:        0
+Version:        1.83
+Release:        1
 Summary:        Immediate Mode Graphical User interface for C++ with minimal dependencies
 License:        MIT
 Group:          System/Libraries
 URL:            https://www.dearimgui.org
-Source:         https://github.com/ocornut/imgui/archive/v%{version}.tar.gz
-BuildRequires:  c++_compiler
+Source:         https://github.com/ocornut/imgui/archive/v%{version}/%{name}-%{version}.tar.gz
 BuildRequires:  make
 
 %description
