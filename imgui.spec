@@ -1,3 +1,5 @@
+%define _empty_manifest_terminate_build 0
+
 Name:           imgui
 Version:        1.83
 Release:        1
