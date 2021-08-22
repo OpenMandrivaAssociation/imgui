@@ -1,7 +1,7 @@
 %define _empty_manifest_terminate_build 0
 
 Name:           imgui
-Version:        1.83
+Version:        1.84.1
 Release:        1
 Summary:        Immediate Mode Graphical User interface for C++ with minimal dependencies
 License:        MIT
