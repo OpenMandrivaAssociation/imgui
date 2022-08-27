@@ -13,6 +13,7 @@ Group:          System/Libraries
 URL:            https://www.dearimgui.org
 Source:         https://github.com/ocornut/imgui/archive/v%{version}/%{name}-%{version}.tar.gz
 BuildRequires:  make
+BuildRequires:	vulkan-headers
 
 %description
 ImGui is a bloat-free graphical user interface library for C++. It outputs
