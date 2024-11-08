@@ -5,7 +5,7 @@
 %define devname %mklibname -d imgui
 
 Name:           imgui
-Version:        1.91.4
+Version:        1.91.5
 Release:        1
 Summary:        Immediate Mode Graphical User interface for C++ with minimal dependencies
 License:        MIT
